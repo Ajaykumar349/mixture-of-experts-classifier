@@ -1,1 +1,7 @@
 # mixture-of-experts-classifier
+
+tensorflow>=2.13.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+pandas>=2.0.0
