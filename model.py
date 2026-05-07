@@ -1,8 +1,3 @@
-"""
-Mixture of Experts (MoE) Classifier using TensorFlow
-Author: Ajay Kumar Gangwar | NIT Durgapur | MTech AI & DS
-"""
-
 import tensorflow as tf
 from tensorflow.keras import layers, Model
 import numpy as np
